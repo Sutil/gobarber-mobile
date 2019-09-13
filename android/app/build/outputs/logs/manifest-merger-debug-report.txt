@@ -5,6 +5,9 @@ INJECTED from /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/a
 INJECTED from /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.60.5] /home/sutil/android-studio/gradle/gradle-4.4-20171031235950+0000/caches/transforms-2/files-2.1/77c5a73bbe1cc550f3ef99ca5c619e5f/AndroidManifest.xml:2:1-13:12
 MERGED from [org.webkit:android-jsc:r245459] /home/sutil/android-studio/gradle/gradle-4.4-20171031235950+0000/caches/transforms-2/files-2.1/f68cff808557395f9116b95959177238/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/sutil/android-studio/gradle/gradle-4.4-20171031235950+0000/caches/transforms-2/files-2.1/1574d744056578dfa501234d3649830b/AndroidManifest.xml:17:1-22:12
@@ -132,6 +135,12 @@ uses-sdk
 INJECTED from /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/sutil/projetos/rocketseat/gobarber-project/gobarber-mobile/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.60.5] /home/sutil/android-studio/gradle/gradle-4.4-20171031235950+0000/caches/transforms-2/files-2.1/77c5a73bbe1cc550f3ef99ca5c619e5f/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.60.5] /home/sutil/android-studio/gradle/gradle-4.4-20171031235950+0000/caches/transforms-2/files-2.1/77c5a73bbe1cc550f3ef99ca5c619e5f/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r245459] /home/sutil/android-studio/gradle/gradle-4.4-20171031235950+0000/caches/transforms-2/files-2.1/f68cff808557395f9116b95959177238/AndroidManifest.xml:7:5-9:41
