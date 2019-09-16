@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { Image, ActivityIndicator } from 'react-native';
+import { Image } from 'react-native';
 import Background from '~/components/Background';
 import {
   Container,

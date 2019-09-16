@@ -1,5 +1,5 @@
 import { Alert } from 'react-native';
-import { all, call, put, takeLatest, delay } from 'redux-saga/effects';
+import { all, call, put, takeLatest } from 'redux-saga/effects';
 import actionNames from '~/store/actionNames';
 import api from '~/services/api';
 
