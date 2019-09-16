@@ -7,7 +7,7 @@ import { Container, Text } from './styles';
 export default function Button({ children, loading, ...rest }) {
   return (
     <Container {...rest}>
-      {loading ? <ActivityIndicator /> : <Text>{children}</Text>}
+      {loading ? <ActivityIndicator color="#fff" /> : <Text>{children}</Text>}
     </Container>
   );
 }
