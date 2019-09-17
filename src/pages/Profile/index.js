@@ -12,6 +12,7 @@ import {
 } from './styles';
 import Background from '~/components/Background';
 import { updateProfileRequest } from '~/store/modules/user/actions';
+import { signOut } from '~/store/modules/auth/actions';
 
 export default function Profile() {
   const dispatch = useDispatch();
@@ -48,7 +49,9 @@ export default function Profile() {
     );
   }
 
-  function handleLogout() {}
+  function handleLogout() {
+    dispatch(signOut());
+  }
 
   return (
     <Background>

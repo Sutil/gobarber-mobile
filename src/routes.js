@@ -18,8 +18,8 @@ export default (isSigned = false) =>
         }),
         App: createBottomTabNavigator(
           {
-            Profile,
             Dashboard,
+            Profile,
           },
           {
             tabBarOptions: {
