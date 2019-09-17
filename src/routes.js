@@ -59,6 +59,7 @@ export default (isSigned = false) =>
             Profile,
           },
           {
+            resetOnBlur: true,
             tabBarOptions: {
               keyboarHidesTabBar: true,
               activeTintColor: '#fff',
